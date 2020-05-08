@@ -4,7 +4,7 @@ let h = 800;
 let w = 600;
 
 function preload() {
-  img = loadImage('assets/Aarhus.png');
+  img = loadImage('assets/city.png');
   table = loadTable('assets/city_data.csv', 'csv', 'header');
 }
 
